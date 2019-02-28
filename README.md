@@ -1,2 +1,4 @@
 # MyHoroscopeFromAWebPage-v.1
-Gets my horoscope for a day. Needs more work so will be udated.
+Gets your horoscope for a day. Needs more work so will be udated.
+- all signs added
+- log files added (feature added for practice)
