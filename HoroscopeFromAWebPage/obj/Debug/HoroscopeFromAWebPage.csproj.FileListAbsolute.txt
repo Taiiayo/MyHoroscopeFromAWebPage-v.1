@@ -8,3 +8,17 @@ D:\Users\VS Progects bef Tree\HoroscopeFromAWebPage\HoroscopeFromAWebPage\obj\De
 D:\Users\VS Progects bef Tree\HoroscopeFromAWebPage\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.exe
 D:\Users\VS Progects bef Tree\HoroscopeFromAWebPage\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.pdb
 D:\Users\VS Progects bef Tree\HoroscopeFromAWebPage\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.csprojAssemblyReference.cache
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\bin\Debug\HoroscopeFromAWebPage.exe.config
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\bin\Debug\HoroscopeFromAWebPage.exe
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\bin\Debug\HoroscopeFromAWebPage.pdb
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.csprojAssemblyReference.cache
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.Form1.resources
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.Properties.Resources.resources
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.csproj.GenerateResource.cache
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.csproj.CoreCompileInputs.cache
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.exe
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.pdb
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\bin\Debug\NLog.config
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\bin\Debug\NLog.dll
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\bin\Debug\NLog.xml
+D:\Projects\github cope projs\MyHoroscopeFromAWebPage-v.1\HoroscopeFromAWebPage\obj\Debug\HoroscopeFromAWebPage.csproj.CopyComplete
